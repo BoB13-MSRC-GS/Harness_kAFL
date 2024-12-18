@@ -2,7 +2,7 @@
 
 <div align='center'>
   <h1><code>Harness_kAFL
-    (BoB13-MSRC_GASAN)</code></h1>
+(BoB13-MSRC_GASAN)</code></h1>
   <p>
     <strong>kAFL fuzzing harness Archive</strong><br>
   </p>
